@@ -8,6 +8,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{07A77940-3F3F-4D7E-894D-43173CB1E37A}"
 	ProjectSection(SolutionItems) = preProject
 		Dockerfile = Dockerfile
+		AzureCLI_scripts\webapi_epam_azure_cli_deployment.txt = AzureCLI_scripts\webapi_epam_azure_cli_deployment.txt
+		AzureCLI_scripts\webapi_epam_azure_cli_deployment_docker.txt = AzureCLI_scripts\webapi_epam_azure_cli_deployment_docker.txt
 	EndProjectSection
 EndProject
 Global

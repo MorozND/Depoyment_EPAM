@@ -1,0 +1,2 @@
+- az group create --name webapi-epam-manual --location westeurope
+- az webapp up --name webapi-epam-manual-app --resource-group webapi-epam-manual --plan webapi-epam-manual-plan --sku FREE
